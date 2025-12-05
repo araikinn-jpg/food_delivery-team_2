@@ -12,9 +12,9 @@ The goal is to provide data-driven insights that can support strategic decision-
 
 ## Project Structure
 notebooks/
-├── 01_phase1_documentation.sql
-├── 02_task3_machine_learning.ipynb
-├── 03_task4_visualizations.ipynb
+─ 01_phase1_documentation.sql
+─ 02_task3_machine_learning.ipynb
+─ 03_task4_visualizations.ipynb
 
 ## Tools & Technologies Used
 **SQLite** — database for storing and querying operational data
