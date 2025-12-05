@@ -10,11 +10,10 @@ We explored multiple analytical questions and built several models to understand
 - cancellation and delivery dynamics
 The goal is to provide data-driven insights that can support strategic decision-making.
 
-## Project Structure
-notebooks/
-─ 01_phase1_documentation.sql
-─ 02_task3_machine_learning.ipynb
-─ 03_task4_visualizations.ipynb
+## Project Structure:
+- 01_phase1_documentation.sql
+- 02_task3_machine_learning.ipynb
+- 03_task4_visualizations.ipynb
 
 ## Tools & Technologies Used
 **SQLite** — database for storing and querying operational data
