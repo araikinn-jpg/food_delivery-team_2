@@ -10,6 +10,12 @@ We explored multiple analytical questions and built several models to understand
 - cancellation and delivery dynamics
 The goal is to provide data-driven insights that can support strategic decision-making.
 
+## Project Structure
+notebooks/
+├── 01_phase1_documentation.sql
+├── 02_task3_machine_learning.ipynb
+├── 03_task4_visualizations.ipynb
+
 ## Tools & Technologies Used
 **SQLite** — database for storing and querying operational data
 **Python** — main language for analysis and modeling
@@ -34,7 +40,7 @@ seaborn
 scikit-learn
 ```
 
-##Key Analytical Questions:
+## Key Analytical Questions:
 1. Which cuisine types generate the highest average order value?
 2. How often and how recently do customers place orders?
 3. Which delivery partners are fastest and which are slowest?
@@ -43,6 +49,13 @@ scikit-learn
 
 
 ## Models & Methods
+| Model                                      | Purpose                                                     |
+| ------------------------------------------ | ----------------------------------------------------------- |
+| **Linear Regression**                      | Establish baseline performance and interpret feature impact |
+| **Polynomial Regression (2nd–4th degree)** | Capture non-linear trends in business operations            |
+| **Random Forest**                          | Improve predictive accuracy and handle complex interactions |
+
+
 
 ## Results Summary
 Found peak cancellation hours between 17:00–22:00
@@ -73,19 +86,9 @@ All process maps and architecture diagrams can be found in the diagrams/ folder.
 Designed using draw.io and python
 
 ## Contributors names and contact info
-- Tsyr Rau Chen, [Tsyr Rau Chen]() 
-- Arailym Duisengali, [Arailym Duisengali](araikinn@bu.edu)
-- Sheikh Noohery, [Sheikh Noohery](noohery@bu.edu)
-- Lo Ying Wu, [Lo Ying Wu]()
-- Kuan Rong Yang, [Kuan Rong Yang](yangkr@bu.edu)
+- Tsyr Rau Chen, () 
+- Arailym Duisengali, (araikinn@bu.edu)
+- Sheikh Noohery, (noohery@bu.edu)
+- Lo Ying Wu, ()
+- Kuan Rong Yang, (yangkr@bu.edu)
 
-## Version History
-
-* 0.1
-    * Initial Release
-
-
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
