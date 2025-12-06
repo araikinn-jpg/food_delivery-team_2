@@ -11,8 +11,8 @@ We explored multiple analytical questions and built several models to understand
 The goal is to provide data-driven insights that can support strategic decision-making.
 
 ## Project Structure:
-- 01_phase1_documentation.sql
-- 02_task3_machine_learning.ipynb
+- 01_task2.sql
+- 02_task3_ML.ipynb
 - 03_task4_visualizations.ipynb
 
 ## Tools & Technologies Used
@@ -39,7 +39,7 @@ seaborn
 scikit-learn
 ```
 
-## Key Analytical Questions:
+## Key Analytical Questions answered using SQL:
 1. Which cuisine types generate the highest average order value?
 2. How often and how recently do customers place orders?
 3. Which delivery partners are fastest and which are slowest?
@@ -56,28 +56,13 @@ scikit-learn
 
 
 
-## Results Summary
+## Results Summary supported with visualizations:
 Found peak cancellation hours between 17:00–22:00
+![Cancellations by Hours](diagrams/Cancellations-by-hours.png)
 
 ## How to Run the Project
-
-Clone the repository:
-```
-git clone https://github.com/yourusername/repo-name.git
-```
-Install dependencies:
-```
-pip install -r requirements.txt
-```
-Open the notebook:
-```
-jupyter notebook notebooks/analysis.ipynb
-```
-(Optional) Run SQL queries on the SQLite database:
-```
-import sqlite3
-conn = sqlite3.connect("food_delivery.db")
-```
+To explore the project, simply open the notebooks inside the notebooks/ folder.
+All required libraries are listed in requirements.txt.
 
 
 ## Diagrams
