@@ -1,4 +1,6 @@
 # Food Delivery Business Analytics Project
+Team members: Tsyr Rau Chen, Arailym Duisengali, Sheikh Noohery, Lo Ying Wu, and Kuan Rong Yang
+
 ## Project Overview
 
 This project aims to identify the core strengths and performance drivers of a food-delivery business.
@@ -10,34 +12,18 @@ We explored multiple analytical questions and built several models to understand
 - cancellation and delivery dynamics
 The goal is to provide data-driven insights that can support strategic decision-making.
 
-## Project Structure:
-- 01_task2.sql
-- 02_task3_ML.ipynb
-- 03_task4_visualizations.ipynb
 
 ## Tools & Technologies Used
 **SQLite** — database for storing and querying operational data
+
 **Python** — main language for analysis and modeling
-    -  Pandas (data manipulation)
-    -  NumPy (numerical operations)
-    -  Scikit-Learn (machine learning models)
-    -  Matplotlib & Seaborn (visualizations)
+- Pandas (data manipulation)
+- NumPy (numerical operations)
+- Scikit-Learn (machine learning models)
+- Matplotlib & Seaborn (visualizations)
+
 **draw.io** — diagramming / workflow charts
 
-## Dependencies
-To run this project, install the following Python libraries:
-```
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
-Or manually, the libraries used are:
-```
-sqlite3
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-```
 
 ## Key Analytical Questions answered using SQL:
 1. Which cuisine types generate the highest average order value?
@@ -48,11 +34,19 @@ scikit-learn
 
 
 ## Models & Methods
+
+### Models
 | Model                                      | Purpose                                                     |
 | ------------------------------------------ | ----------------------------------------------------------- |
 | **Linear Regression**                      | Establish baseline performance and interpret feature impact |
 | **Polynomial Regression (2nd–4th degree)** | Capture non-linear trends in business operations            |
 | **Random Forest**                          | Improve predictive accuracy and handle complex interactions |
+
+### Evaluation Metrics
+| Metric | Purpose |
+|--------|---------|
+| **MAE (Mean Absolute Error)** | Measures the average absolute prediction error |
+| **RMSE (Root Mean Squared Error)** | Evaluates model error and penalizes larger deviations |
 
 
 
