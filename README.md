@@ -1,5 +1,5 @@
 # Food Delivery Business Analytics Project
-Team members: Tsyr Rau Chen, Arailym Duisengali, Sheikh Noohery, Lo Ying Wu, and Kuan Rong Yang
+Team 2 members: Tsyr Rau Chen, Arailym Duisengali, Sheikh Noohery, Lo Ying Wu, and Kuan Rong Yang
 
 ## Project Overview
 
