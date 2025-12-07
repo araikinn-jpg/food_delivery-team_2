@@ -64,9 +64,9 @@ All process maps and architecture diagrams can be found in the diagrams/ folder.
 Designed using draw.io and python
 
 ## Contributors names and contact info
-- Tsyr Rau Chen, () 
+- Tsyr Rau Chen, (hanachen@bu.edu) 
 - Arailym Duisengali, (araikinn@bu.edu)
 - Sheikh Noohery, (noohery@bu.edu)
-- Lo Ying Wu, ()
+- Lo Ying Wu, (mecwu@bu.edu)
 - Kuan Rong Yang, (yangkr@bu.edu)
 
