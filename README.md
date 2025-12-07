@@ -53,7 +53,7 @@ The goal is to provide data-driven insights that can support strategic decision-
 
 ## How to Run the Project
 To explore the project, simply open the notebooks inside the notebooks/ folder.
-All required libraries are listed in requirements.txt.
+
 Additional project insights and recommendations can be found in the reports/ folder.
 
 
