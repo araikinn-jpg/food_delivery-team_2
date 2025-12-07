@@ -50,18 +50,18 @@ The goal is to provide data-driven insights that can support strategic decision-
 
 
 
-## Results Summary supported with visualizations:
-Found peak cancellation hours between 17:00–22:00
-![Cancellations by Hours](diagrams/order-cancellations.png)
 
 ## How to Run the Project
 To explore the project, simply open the notebooks inside the notebooks/ folder.
 All required libraries are listed in requirements.txt.
 
 
+
 ## Diagrams
 All process maps and architecture diagrams can be found in the diagrams/ folder.
 Designed using draw.io and python
+
+
 
 ## Contributors names and contact info
 - Tsyr Rau Chen, (hanachen@bu.edu) 
