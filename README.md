@@ -22,7 +22,7 @@ The goal is to provide data-driven insights that can support strategic decision-
 - Scikit-Learn (machine learning models)
 - Matplotlib & Seaborn (visualizations)
 
-**draw.io** — diagramming / workflow charts
+**Lucidchart** —  ERD 
 
 
 ## Key Analytical Questions answered using SQL:
@@ -54,12 +54,12 @@ The goal is to provide data-driven insights that can support strategic decision-
 ## How to Run the Project
 To explore the project, simply open the notebooks inside the notebooks/ folder.
 All required libraries are listed in requirements.txt.
-
+Additional project insights and recommendations can be found in the reports/ folder.
 
 
 ## Diagrams
 All process maps and architecture diagrams can be found in the diagrams/ folder.
-Designed using draw.io and python
+Designed using Lucidchart (ERD) and python (all other visuals)
 
 
 
